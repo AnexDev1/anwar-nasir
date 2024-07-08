@@ -39,7 +39,6 @@
 
 
 </p>
-<p align="left"> <a href="https://twitter.com/anexdev1" target="blank"><img src="https://img.shields.io/twitter/follow/dagmawibabi?logo=twitter&style=for-the-badge" alt="dagmawibabi" /></a> </p>
 
 
 
