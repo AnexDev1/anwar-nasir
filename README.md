@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anexdev1&label=Profile%20views&color=0e75b6&style=flat" alt="anwarnasir" /> </p>
 
 
-<img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I’m currently working on [Flutter](https://github.com/anexdev1)
 
